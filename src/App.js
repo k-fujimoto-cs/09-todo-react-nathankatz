@@ -1,12 +1,15 @@
 import React, { Component } from 'react';
 import './App.css';
+import Todo from './Todo';
+import NewTodo from './NewTodo';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <h1>Nathans ToDo App</h1>
-      </div>
+      <section id="todos">
+      <NewTodo />
+       <Todo />
+     </section>
     );
   }
 }

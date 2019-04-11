@@ -1,0 +1,24 @@
+
+#newText {
+    width: 90%;
+    font-size: 40px;
+    border: none;
+    border-bottom: 1px solid #aaa;
+    outline: none;
+    max-width: 75%;
+
+}
+
+#submit {
+    background-color: green;
+    color: white;
+    border: none;
+    font-size: 30px;
+    cursor: pointer;
+    float: right;
+
+}
+
+#submit:hover {
+    background-color: lawngreen;
+}
