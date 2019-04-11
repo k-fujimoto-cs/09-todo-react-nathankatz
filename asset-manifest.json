@@ -1,13 +1,13 @@
 {
-  "main.css": "/08-todo-react/static/css/main.1af24ae9.chunk.css",
-  "main.js": "/08-todo-react/static/js/main.49dbebdb.chunk.js",
-  "main.js.map": "/08-todo-react/static/js/main.49dbebdb.chunk.js.map",
-  "static/js/1.0cdd6f18.chunk.js": "/08-todo-react/static/js/1.0cdd6f18.chunk.js",
-  "static/js/1.0cdd6f18.chunk.js.map": "/08-todo-react/static/js/1.0cdd6f18.chunk.js.map",
-  "runtime~main.js": "/08-todo-react/static/js/runtime~main.2ba01b30.js",
-  "runtime~main.js.map": "/08-todo-react/static/js/runtime~main.2ba01b30.js.map",
-  "static/css/main.1af24ae9.chunk.css.map": "/08-todo-react/static/css/main.1af24ae9.chunk.css.map",
-  "index.html": "/08-todo-react/index.html",
-  "precache-manifest.c22b239b26390686aa4cde74383ef272.js": "/08-todo-react/precache-manifest.c22b239b26390686aa4cde74383ef272.js",
-  "service-worker.js": "/08-todo-react/service-worker.js"
+  "main.css": "/09-todo-react-nathankatz/static/css/main.1af24ae9.chunk.css",
+  "main.js": "/09-todo-react-nathankatz/static/js/main.49dbebdb.chunk.js",
+  "main.js.map": "/09-todo-react-nathankatz/static/js/main.49dbebdb.chunk.js.map",
+  "static/js/1.0cdd6f18.chunk.js": "/09-todo-react-nathankatz/static/js/1.0cdd6f18.chunk.js",
+  "static/js/1.0cdd6f18.chunk.js.map": "/09-todo-react-nathankatz/static/js/1.0cdd6f18.chunk.js.map",
+  "runtime~main.js": "/09-todo-react-nathankatz/static/js/runtime~main.4d77795d.js",
+  "runtime~main.js.map": "/09-todo-react-nathankatz/static/js/runtime~main.4d77795d.js.map",
+  "static/css/main.1af24ae9.chunk.css.map": "/09-todo-react-nathankatz/static/css/main.1af24ae9.chunk.css.map",
+  "index.html": "/09-todo-react-nathankatz/index.html",
+  "precache-manifest.aadfa4802d6f60efbaffd5168e789a26.js": "/09-todo-react-nathankatz/precache-manifest.aadfa4802d6f60efbaffd5168e789a26.js",
+  "service-worker.js": "/09-todo-react-nathankatz/service-worker.js"
 }
