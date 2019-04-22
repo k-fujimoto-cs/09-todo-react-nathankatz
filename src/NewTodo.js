@@ -5,11 +5,15 @@ class NewTodo extends Component {
   render() {
     return (
       <div>
-          <form id="new-entry">
-              <input type="text" id="newText" placeholder="New ToDo..." />
-              <a id="submit">ADD</a>
+          <form id="new-entry" onSubmit={this.props.addTodo}>
+              <input type="text" id="newText" placeholder="New ToDo..." value={this.props.input}  onChange={this.props.onChange}/>
+              <button type="submit" onSubmit={this.props.addTodo} id="submit">ADD</button >
           </form>
+
+
+
       </div>
+
     );
   }
 }
